@@ -13,7 +13,6 @@ import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 import com.promineotech.jeep.entity.Jeep;
 import com.promineotech.jeep.entity.JeepModel;
-import com.promineotech.jeep.service.DefaultJeepSalesService;
 import lombok.extern.slf4j.Slf4j;
 
 @Service
